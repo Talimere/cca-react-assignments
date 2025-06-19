@@ -55,6 +55,15 @@ export default App;
 - Modify `Welcome` to accept a `name: string` prop
 - Render multiple `Welcome` components with different names
 
+```ts
+//Hint
+function SomeFunction({label}: string) {
+    return(
+        <p>I can show a {label} here</p>
+    );
+}
+```
+
 ### Extra credit:
 - Use an array of names and a for-loop to render the `Welcome` components
 
@@ -72,3 +81,11 @@ In this task you're free to implement the `Counter` function as you wish,
 try different approaches. Will you display the counter on the button, or in a separate `<p>` tag for instance?
 
 The `Counter` component should be self-contained, which means the button and count should both exist in the component. This way, you can easily use the `<Counter />` component in `App.tsx`
+
+### Extra credit:
+Set up multiple instances of `Counter` on the web page
+
+## #5
+
+### Goals:
+- 
