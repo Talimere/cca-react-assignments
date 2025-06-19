@@ -115,3 +115,19 @@ import { type Dispatch, type SetStateAction } from "react";
 
 ### Explore:
 - Go to the `shadcn` page, and have a look at the list of ready-made components they offer, do you see any components you'd like to use in your projects?
+
+## #7 - Styling with tailwind
+
+### Goals:
+- Style components using tailwindcss
+
+### Tasks:
+- Check out this [cheat sheet](https://nerdcave.com/tailwind-cheat-sheet) for tailwindcss
+- Try using a css class from tailwindcss on any of your components
+
+### Example
+```html
+<div className="border-2 border-red-500">
+    
+</div>
+```
