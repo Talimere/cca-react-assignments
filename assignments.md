@@ -39,7 +39,7 @@ export default App;
 
 ### Tasks:
 - Create a new folder called `components` in the src folder
-- Create a new tsx file called `Welcome.tsx`
+- Create a new tsx file called `Welcome.tsx` in the `components` folder
 - Create a deafult exported function in `Welcome.tsx` that returns a greeting in a header tag
 - Use the `Welcome` component in `App.tsx`
 - Create another component called `Dashboard` in a file with an appropriate file name
