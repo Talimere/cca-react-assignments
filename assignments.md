@@ -58,3 +58,4 @@ export default App;
 ### Extra credit:
 - Use an array of names and a for-loop to render the `Welcome` components
 
+## #4 - State management
