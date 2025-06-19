@@ -85,7 +85,14 @@ The `Counter` component should be self-contained, which means the button and cou
 ### Extra credit:
 Set up multiple instances of `Counter` on the web page
 
-## #5
+## #5 - Lift the state
 
 ### Goals:
-- 
+- Passing a state to a component using props
+
+### Tasks:
+- Initialize a state in `App.tsx`
+- Create two or more instances of `Counter` in `App.tsx`
+- Rewrite `Counter` such that it accepts a state as a prop (including the function that sets/updates the state)
+- Verify that the count updates and displays for all instances of the `Counter` on the web page
+
