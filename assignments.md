@@ -55,3 +55,6 @@ export default App;
 - Modify `Welcome` to accept a `name: string` prop
 - Render multiple `Welcome` components with different names
 
+### Extra credit:
+- Use an array of names and a for-loop to render the `Welcome` components
+
