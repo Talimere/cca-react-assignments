@@ -127,7 +127,7 @@ import { type Dispatch, type SetStateAction } from "react";
 
 ### Example
 ```html
-<div className="border-2 border-red-500">
+<div className="border-2 border-red-500 w-[150px] h-[50px]">
     
 </div>
 ```
