@@ -109,5 +109,6 @@ import { type Dispatch, type SetStateAction } from "react";
 ### Tasks:
 - Go to [Shadcn vite setup](https://ui.shadcn.com/docs/installation/vite) and follow the instructions there
     - You have already done the initial scaffolding (Create project), so no need to repeat this
-- Import the button, card, and input components from shadcn (using npx)
+- Import the `button`, `card`, and `input` components from shadcn (using npx)
+    - Import these one at a time, and notice what happens to the `components/ui` folder when you add new components from shadcn
 - Try adding some of these components to your `App.tsx`
