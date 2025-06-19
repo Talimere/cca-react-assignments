@@ -112,3 +112,6 @@ import { type Dispatch, type SetStateAction } from "react";
 - Import the `button`, `card`, and `input` components from shadcn (using npx)
     - Import these one at a time, and notice what happens to the `components/ui` folder when you add new components from shadcn
 - Try adding some of these components to your `App.tsx`
+
+### Explore:
+- Go to the `shadcn` page, and have a look at the list of ready-made components they offer, do you see any components you'd like to use in your projects?
