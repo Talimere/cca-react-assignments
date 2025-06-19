@@ -96,3 +96,7 @@ Set up multiple instances of `Counter` on the web page
 - Rewrite `Counter` such that it accepts a state as a prop (including the function that sets/updates the state)
 - Verify that the count updates and displays for all instances of the `Counter` on the web page
 
+Hint:
+```ts
+import { type Dispatch, type SetStateAction } from "react";
+```
