@@ -131,3 +131,19 @@ import { type Dispatch, type SetStateAction } from "react";
     
 </div>
 ```
+
+## #8 - Play around with APIs
+
+### Goals:
+- Get comfortable rewriting code
+- Get used to seeing JSON data and selecting interesting data points
+
+### Tasks:
+- Get the API key from slack, and put into the `Weather` component in the correct constant.
+    - Make "\<API KEY HERE\>" look like "bdfbd67678d"
+- Copy the `Weather` component into your own project, in a folder that makes sense, the "components" folder is typically where you want it
+- Have a look at the [Documentation](https://app.swaggerhub.com/apis-docs/WeatherAPI.com/WeatherAPI/1.0.2#/APIs/forecast-weather) for the forecast endpoint, and check out the structure of the returned data
+- Get the `Weather` component to work in your own application (remember that you can ask me on slack, even in the weekends, between 0800 - 2100)
+- Play around with the component, add extra fields to the table, change the order of the fields, make the recharts chart show more lines, etc.
+
+Feel free to ask either me or GPT for advice, the point of this task is to play around and get comfortable
