@@ -140,7 +140,7 @@ import { type Dispatch, type SetStateAction } from "react";
 
 ### Tasks:
 - Get the API key from slack, and put into the `Weather` component in the correct constant.
-    - Make "\<API KEY HERE\>" look like "bdfbd67678d"
+    - Make "\<API KEY HERE\>" look like "bdfbd67678d" (No angle brackets)
 - Copy the `Weather` component into your own project, in a folder that makes sense, the "components" folder is typically where you want it
 - Look at the list of imports in the component, and cross-reference with the list on ShadCN's component docs, install as instructed on each component.
     - Components needed: Table, Button, Input, Slider
